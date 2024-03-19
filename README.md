@@ -24,21 +24,31 @@ The main objectives are to understand the variability and trends in sea ice thic
 - **ICESat-2 ATL10 Gridded Monthly Sea Ice Products**: This dataset, providing measurements of sea ice thickness, serves as the primary source for assessing changes in sea ice around Kivalina.
 - **Wind Speed Data**: Additional datasets will be used to analyze changes in wind speeds near Kivalina over the same period.
 
-## Tools/Packages
-- **Python**: For data processing and analysis.
+## Important Tools/Packages.
 - **Geopandas and Rasterio**: For spatial analysis of sea ice thickness data and identification of key hunting areas.
 - **Streamlit**: For developing an interactive spatial map that visualizes changes in sea ice thickness and wind speeds dynamically.
 
 ## Methodology/Approach
 1. **Data Processing**: Extract sea ice thickness and wind speed data relevant to Kivalina from the ATL10 dataset and additional sources using Python.
-2. **Spatial Analysis**: Map the gridded sea ice thickness data and wind speed data to analyze their spatial distribution and variability over time. Identify grid cells covering key hunting areas for focused analysis.
+2. **Spatial Analysis**: Map the gridded sea ice thickness data and wind speed data to analyze their spatial distribution and variability over time. Identify grid cells covering key hunting areas for focused analysis.This analysis occurs over the window of January - April, a critical period of sea ice presence and historically, bowhead migration and hunting near Kivalin, AK. March is considered the month of maxiumum sea ice extent. 
 3. **Interactive Mapping**: Develop an interactive map with Streamlit, enabling dynamic visualization of changes in sea ice thickness and wind speeds.
 
 ## Outcomes
 The project expects to reveal critical insights into the temporal and spatial variability of sea ice thickness and wind speeds around Kivalina, emphasizing their impacts on marine subsistence hunting areas. The development of an online climate analysis tool will facilitate local community access to sea ice and wind data, aiding in informed decision-making related to subsistence hunting practices.
 
 ## Preliminary Figures 
+### Sea Ice Thickness Change in Nearest Gridcell to Kivalina
+#### The gridcell closest to Kivalina was chosen due to historical uses of sea ice spanning over an area of about ~10 miles west from shore, over the past 20 years. In recent years, sea ice usage has been much closer to shore, due to decreasing sea ice thickness and stability. 
+![download-2](https://github.com/UW-GDA/kvlclimate/assets/153063310/772dc5fd-f7a0-4908-9376-23a5a0d31659)
+#### Figure 2. This line graph depicts the average sea ice thickness near Kivalina, Alaska, for the months of January through April from 2019 to 2023. The data illustrates high interannual variability in sea ice thickness with a noticeable peak in April 2023. 
 
+### Visual Assessment of Sea Ice Thickness 
+#### To get a zoomed-out view of sea ice thickness, I produced monthly and yearly plots of gridded sea ice thickness near Kivalina. This helped me get a quick look at month-to-month changes. Here's an example of what the figures look like, this one for January 2019. 
+![download-7](https://github.com/UW-GDA/kvlclimate/assets/153063310/71ebd760-bfd4-460e-bab2-e86db3351d57)
+#### Figure 3. The map illustrates the spatial distribution of sea ice thickness in January 2019 around Kivalina, Alaska, with the color gradient from blue to red representing increasing thickness levels. The red dot indicates the location of Kivalina, situated where the ice is relatively thinner compared to the surrounding areas, as denoted by the shift in color towards warmer tones indicating thicker ice 
+
+### Wind Speed Changes 
+#### Wind Speeds are a critical safety parameter for users of sea ice in Kivalina, AK. Wind speeds higher than ~30 mph are generally considered unsafe for hunting from the sea ice platform. Data from the NCEI was extracted and line plots were created for a helpful look at wind speed maximums, averages, and changes through time. 
 
 ## References
 
