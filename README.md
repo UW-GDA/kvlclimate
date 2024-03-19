@@ -58,7 +58,13 @@ The project expects to reveal critical insights into the temporal and spatial va
 #### Figure 3. The map illustrates the spatial distribution of sea ice thickness in January 2019 around Kivalina, Alaska, with the color gradient from blue to red representing increasing thickness levels. The red dot indicates the location of Kivalina, situated where the ice is relatively thinner compared to the surrounding areas, as denoted by the shift in color towards warmer tones indicating thicker ice 
 
 ### Wind Speed Changes 
-#### Wind Speeds are a critical safety parameter for users of sea ice in Kivalina, AK. Wind speeds higher than ~30 mph are generally considered unsafe for hunting from the sea ice platform. Data from the NCEI was extracted and line plots were created for a helpful look at wind speed maximums, averages, and changes through time. 
+#### Wind Speeds are a critical safety parameter for users of sea ice in Kivalina, AK. Wind speeds higher than ~30 mph are generally considered unsafe for hunting from the sea ice platform. Data from the NCEI was extracted and line plots were created for a helpful look at wind speed maximums, averages, and changes through time for the months of January - April. For an example of the data, here is the January plot. 
+![download-4](https://github.com/UW-GDA/kvlclimate/assets/153063310/e4eebc62-a485-41d5-bfe0-f9245736c406)
+#### Figure 4. This line graph presents the average and maximum wind speeds in January from the years 2000 to 2024. The data indicates a variable but general increase in both the average and peak wind speeds over the observed period. The peaks in maximum wind speed, particularly in the later years, may have significant implications for sea ice stability and local navigation conditions.
+
+
+### Preliminary Findings 
+
 
 ## References
 
