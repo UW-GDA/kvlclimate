@@ -55,7 +55,10 @@ The project expects to reveal critical insights into the temporal and spatial va
 ### Visual Assessment of Sea Ice Thickness 
 #### To get a zoomed-out view of sea ice thickness, I produced monthly and yearly plots of gridded sea ice thickness near Kivalina. This helped me get a quick look at month-to-month changes. Here's an example of what the figures look like, this one for January 2019. 
 ![download-7](https://github.com/UW-GDA/kvlclimate/assets/153063310/71ebd760-bfd4-460e-bab2-e86db3351d57)
-#### Figure 3. The map illustrates the spatial distribution of sea ice thickness in January 2019 around Kivalina, Alaska, with the color gradient from blue to red representing increasing thickness levels. The red dot indicates the location of Kivalina, situated where the ice is relatively thinner compared to the surrounding areas, as denoted by the shift in color towards warmer tones indicating thicker ice 
+![download-8](https://github.com/UW-GDA/kvlclimate/assets/153063310/030a760b-3ad9-451a-832b-8070e46f764f)
+![download-9](https://github.com/UW-GDA/kvlclimate/assets/153063310/7766345c-5c07-4177-a746-ea8fa36178aa)
+![download-10](https://github.com/UW-GDA/kvlclimate/assets/153063310/07e0337f-4618-49f0-963b-da7191e1dfb2)
+#### Figure 3. The map illustrates the spatial distribution of sea ice thickness in January, February, March, and April 2019 around Kivalina, Alaska, with the color gradient from blue to red representing increasing thickness levels. The red dot indicates the location of Kivalina, situated where the ice is relatively thinner compared to the surrounding areas, as denoted by the shift in color towards bluer tones indicating thinner ice, especially during the months of March and April, where sea ice is expected to be at maximum extent. 
 
 ### Wind Speed Changes 
 #### Wind Speeds are a critical safety parameter for users of sea ice in Kivalina, AK. Wind speeds higher than ~30 mph are generally considered unsafe for hunting from the sea ice platform. Data from the NCEI was extracted and line plots were created for a helpful look at wind speed maximums, averages, and changes through time for the months of January - April. For an example of the data, here is the January plot. 
