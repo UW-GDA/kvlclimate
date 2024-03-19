@@ -6,6 +6,9 @@ Ana M. Stringer
 ## Short Summary
 This project aims to analyze the variability and trends in sea ice thickness and wind speeds around Kivalina, Alaska, a region vital for marine subsistence hunting practices. Utilizing ICESat-2 ATL10 gridded monthly data, we will map the spatial distribution of sea ice thickness and investigate its changes over time, alongside wind speed variations, to assess their combined effects on subsistence hunting areas around Kivalina.
 
+## Repository Files 
+The primary analysis for this project is contained within the Jupyter notebook titled `revisedseaicefigs.stringer.ipynb`. This notebook includes all the data processing, analysis, and visualization code that form the core of the findings on sea ice thickness changes around Kivalina.
+
 ## Introduction
 Kivalina, Alaska is a traditional Iñupiaq subsistence village located in Northwestern Alaska. The village is situated on a narrow barrier island, making it particularly vulnerable to the impacts of climate change. Bowhead hunting is a critical aspect of Iñupiat culture and wellbeing, providing food, clothing, and other essential resources to the community, which is located off of the road system and can only receive imported goods via freight plane or on a seasonal barge during summer months. Specifically, Kivalina’s bowhead hunt has been impacted by changing conditions. The decline in sea ice conditions over the last 20 years has made it challenging for crews to reach the main bowhead migration path. Because of this,  hunting now occurs in much more open water, which has increased interest in risk assessment and safety planning, especially under changing climatic conditions This project utilizes the ICESat-2 ATL10 dataset to provide a detailed assessment of sea ice thickness variability and wind speed changes around Kivalina, aiming to develop an online climate analysis tool that offers valuable insights into sea ice conditions for the community.
 
