@@ -34,7 +34,13 @@ The main objectives are to understand the variability and trends in sea ice thic
 ## Outcomes
 The project expects to reveal critical insights into the temporal and spatial variability of sea ice thickness and wind speeds around Kivalina, emphasizing their impacts on marine subsistence hunting areas. The development of an online climate analysis tool will facilitate local community access to sea ice and wind data, aiding in informed decision-making related to subsistence hunting practices.
 
-## Additional Information
+## Preliminary Figures 
+
 
 ## References
+
+- Petty, A., Keeney, N., et al. (2023). *ICESat-2 Sea Ice State Analysis Jupyter Book*. Retrieved from [ICESat-2 Sea Ice State Analysis Jupyter Book](http://www.icesat-2-sea-ice-state.info). This interactive Jupyter Book provides comprehensive guides and tools for wrangling, visualizing, and analyzing ICESat-2 monthly gridded sea ice concentration data and other related atmospheric data products, facilitating the extraction of sea ice thickness data used in this project.
+
+- National Centers for Environmental Information (NCEI). (2024). *Order #3585992 (Custom GHCN-Daily CSV)*. Retrieved from the National Oceanic and Atmospheric Administration (NOAA) Climate Data Online (CDO). This dataset provides the daily wind speed data utilized in the analysis, under order number 3585992, submitted on 2024-01-30.
+
 
