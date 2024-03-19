@@ -67,7 +67,9 @@ The project expects to reveal critical insights into the temporal and spatial va
 
 
 ### Preliminary Findings 
+In this research project, I processed and analyzed ICESat-2 ATL10 gridded monthly data alongside NCEI wind speed measurements to understand the environmental challenges confronting the community of Kivalina, Alaska. Covering the critical months for subsistence bowhead whaling my investigation reveals some interannual variability in sea ice thickness and an upward trend in wind speeds during prime hunting periods.
 
+Acknowledging the limitations of the ICESat-2 gridded products in capturing fine-scale sea ice features such as pressure ridges that are vital for safety, my next steps include refining spatial analysis to target historically utilized hunting areas and enhancing interactive mapping features using Streamlit. This online tool will hopefully allowKivalina's residents to dynamically interact with the data, zoom into specific details, and have access to data that could potentially be helpful in future planning efforts. 
 
 ## References
 
