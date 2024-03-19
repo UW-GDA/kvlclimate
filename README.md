@@ -25,7 +25,17 @@ The main objectives are to understand the variability and trends in sea ice thic
 - **Wind Speed Data**: Additional datasets will be used to analyze changes in wind speeds near Kivalina over the same period.
 
 ## Important Tools/Packages.
-- **Geopandas and Rasterio**: For spatial analysis of sea ice thickness data and identification of key hunting areas.
+This project uses several Python libraries for data processing, spatial analysis, and visualization:
+- **xarray**: For working with multi-dimensional arrays of data, particularly useful for handling netCDF datasets.
+- **numpy**: Essential for numerical computing and working with arrays.
+- **holoviews**: For creating complex and dynamic visualizations seamlessly.
+- **pandas**: Provides high-performance, easy-to-use data structures and data analysis tools.
+- **hvplot**: A high-level plotting API for the PyData ecosystem built on HoloViews.
+- **matplotlib**: A comprehensive library for creating static, animated, and interactive visualizations in Python.
+- **cartopy**: A library providing cartographic tools for Python for plotting spatial data.
+- **warnings**: Used to control the display of Python warnings.
+- **utils.read_data_utils**: Custom utility functions for reading data, specifically `read_IS2SITMOGR4` for ICESat-2 data extraction.
+- **utils.plotting_utils**: Custom utility functions for creating various static and interactive plots such as `static_winter_comparison_lineplot`, `staticArcticMaps`, and `interactiveArcticMaps`.
 - **Streamlit**: For developing an interactive spatial map that visualizes changes in sea ice thickness and wind speeds dynamically.
 
 ## Methodology/Approach
